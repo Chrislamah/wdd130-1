@@ -7,7 +7,7 @@ Fonts are separated by a & */
 :root {
   /* change the values below to your colors from your palette */
   --primary-color: #4c84ac   ;
-  --secondary-color: #E7C24F ;
+  --secondary-color: #f3d16a ;
   --accent1-color: #A42212;
   --accent2-color: white;
 
@@ -16,14 +16,14 @@ Fonts are separated by a & */
   --paragraph-font: family, Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #396E94;  /* headlines on a white background */ 
-  --headline-color-on-color: rgb(246, 249, 252); /* headlines on a colored background */ 
-  --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: rgb(246, 245, 250); /* paragraph text on a colored background */ 
-  --paragraph-background-color: #539439  ;
-  --nav-link-color: #220fce;
-  --nav-background-color: #D4AC0D;
-  --nav-hover-link-color: white;
+  --headline-color-on-white: #0a8be7;  /* headlines on a white background */ 
+  --headline-color-on-color: rgb(23, 23, 24); /* headlines on a colored background */ 
+  --paragraph-color-on-white: #0d0d0e; /* paragraph text on a white background */ 
+  --paragraph-color-on-color: rgb(8, 8, 8); /* paragraph text on a colored background */ 
+  --paragraph-background-color: #95ec8d  ;
+  --nav-link-color: #eeedf5;
+  --nav-background-color: #180bcfe7;
+  --nav-hover-link-color: #e61212;
   --nav-hover-background-color: https://coolors.co/ff9f1c-ffbf69-ffffff-cbf3f0-2ec4b6;
 }
 
