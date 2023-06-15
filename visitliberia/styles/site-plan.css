@@ -1,14 +1,14 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a | */
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
+@import url('https://coolors.co/4f000b-ffffff-ce4257-6c25be-be4d25');
 
 :root {
   /* change the values below to your colors from your palette */
   --primary-color:#4F000B   ;
   --secondary-color: #FFFFFF ;
-  --accent1-color: #CE4257;
-  --accent2-color: #6C25BE;
+  --accent1-color: #10e056;
+  --accent2-color: #0840f5;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "playfair";
